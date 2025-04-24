@@ -12,5 +12,5 @@ This repository contains projects, experiments, and code samples related to fina
 ## 🧠 About Me
 I’m passionate about finance, data, and technology—and how they come together to solve real-world problems. Let’s innovate together!
 
-📫 Reach me: your-email@example.com
+📫 Reach me:deepanshu9747@gmail.com  
 
