@@ -14,3 +14,22 @@ I’m passionate about finance, data, and technology—and how they come togethe
 
 📫 Reach me:deepanshu9747@gmail.com  
 
+# Fintech Project Bundle
+
+This repo contains a full beginner-friendly fintech project including:
+
+- 📈 Stock price data analysis
+- 📊 Excel and CSV financial data
+- 🧠 Python script and Jupyter Notebook
+- 🖼️ Data visualization chart
+- 📄 PDF report
+
+Great for practicing data analysis and financial modeling!
+
+## 📂 Files Included
+- `financial_data.csv` / `.xlsx`
+- `analysis.py` and `analysis.ipynb`
+- `Fintech_Report.pdf`
+- `stock_price_chart.png`
+
+---
